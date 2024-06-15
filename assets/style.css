@@ -1,0 +1,62 @@
+/* assets/styles.css */
+
+/* General Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #2E4F71;
+  text-align: center;
+}
+
+p, ul {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.container {
+  padding: 20px;
+}
+
+/* Navbar Styles */
+.navbar {
+  margin-bottom: 20px;
+}
+
+/* Section Styles */
+section {
+  margin-bottom: 40px;
+}
+
+section h2 {
+  margin-top: 20px;
+}
+
+.lead {
+  font-size: 1.2em;
+}
+
+.btn-primary {
+  background-color: #2E4F71;
+  border-color: #2E4F71;
+}
+
+.btn-primary:hover {
+  background-color: #2E4F71;
+  border-color: #2E4F71;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #DAE3EC;
+  text-align: center;
+  padding: 10px;
+  border-top: 1px solid #ddd;
+}
+
+footer p {
+  margin: 0;
+}
